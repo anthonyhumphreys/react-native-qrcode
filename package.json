@@ -21,6 +21,6 @@
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
     "qr.js": "0.0.0",
-    "react-native-webview": "^7.6.0"
+    "react-native-webview": "^11.0.0"
   }
 }
